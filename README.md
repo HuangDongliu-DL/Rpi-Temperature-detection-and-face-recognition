@@ -125,11 +125,11 @@
 
 - 关于我们页面
 
-  <img src="D:\My_project\Rpi\Raspberry_pi_Project\img\关于我们页面.jpg">
+  <img src="https://dongliu-1301367244.cos.ap-shanghai.myqcloud.com/img/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC%E9%A1%B5%E9%9D%A2.jpg">
 
 - 部分功能演示照片
 
-  <img src="D:\My_project\Rpi\Raspberry_pi_Project\img\人脸识别.jpg">
+  <img src="https://dongliu-1301367244.cos.ap-shanghai.myqcloud.com/img/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB.jpg">
 
   <img src="https://dongliu-1301367244.cos.ap-shanghai.myqcloud.com/img/%E5%8F%A3%E7%BD%A9%E8%AF%86%E5%88%AB(A).jpg">
 
